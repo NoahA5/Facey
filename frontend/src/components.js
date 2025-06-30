@@ -281,7 +281,7 @@ export const ServicesSection = () => {
       icon: <Award className="w-8 h-8" />,
       title: "Preferred Installer",
       description: "Worcester, Vaillant and Ideal Preferred Installer with extended warranties and professional service.",
-      image: "https://images.unsplash.com/photo-1593014040772-74166184bac7",
+      image: "https://images.unsplash.com/photo-1555020367-cfc90503032f",
       features: ["Extended Warranties", "Certified Installation", "Brand Approved"]
     }
   ];
