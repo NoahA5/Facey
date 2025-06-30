@@ -224,8 +224,8 @@ export const HeroSection = () => {
           >
             <div className="relative z-10">
               <img
-                src="https://images.pexels.com/photos/8986048/pexels-photo-8986048.jpeg"
-                alt="Professional plumber in uniform"
+                src="https://images.unsplash.com/photo-1723988429049-0a42e45e8501"
+                alt="Professional plumbing installation with copper pipes"
                 className="rounded-3xl shadow-2xl w-full h-[600px] object-cover"
               />
             </div>
